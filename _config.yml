@@ -1,0 +1,28 @@
+name: cardbuilder
+favicon: null
+layout_spectrum: 0.8718829650897533
+typography_spectrum: 0.9540719448123127
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9833017301280051
+  lightness: 0.9538936654571444
+  saturation: 0.6684774516616017
+  rhythmicContrast: 0.2601286736316979
+purpose: []
