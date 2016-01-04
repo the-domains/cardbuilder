@@ -2,6 +2,7 @@ name: cardbuilder
 favicon: null
 layout_spectrum: 0.8718829650897533
 typography_spectrum: 0.9540719448123127
+title: CardBuilder
 cta:
   domain: null
   bucket: null
